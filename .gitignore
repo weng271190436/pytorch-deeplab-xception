@@ -8,6 +8,7 @@ __pycache__/
 
 run/
 .idea/
+.vscode/
 
 # Distribution / packaging
 .Python
